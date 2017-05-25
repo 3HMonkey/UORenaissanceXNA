@@ -18,12 +18,13 @@ You should have received a copy of the GNU General Public License  along with th
 **Source Project can be found under :**
 
 * UORenaissanceXNA <u>https://github.com/3HMonkey/UORenaissanceXNA</u>
-* UORenaissanceXNA includes code from other Open Source projects:
 
-UltimaXNA <u>https://github.com/ZaneDubya/UltimaXNA</u>
-RunUO <u>https://github.com/runuo/runuo</u>
-UltimaSDK <u>https://ultimasdk.codeplex.com</u>
-OpenUO <u>https://github.com/jeffboulanger/OpenUO</u>
+**UORenaissanceXNA includes code from other Open Source projects:**
+
+* UltimaXNA <u>https://github.com/ZaneDubya/UltimaXNA</u>
+* RunUO <u>https://github.com/runuo/runuo</u>
+* UltimaSDK <u>https://ultimasdk.codeplex.com</u>
+* OpenUO <u>https://github.com/jeffboulanger/OpenUO</u>
 
 Ultima Online is (c) 2017 Electronic Arts, Inc. All Rights Reserved.
 UORenaissanceXNA is in no way affiliated with Electronic Arts, Inc. 
