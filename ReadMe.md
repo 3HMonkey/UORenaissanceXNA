@@ -7,7 +7,7 @@ UltimaXNA is an isometric massively multiplayer online role playing client that 
 ![Ultima Online at 1920p60](https://cloud.githubusercontent.com/assets/7041719/9290206/9215ffac-434f-11e5-8739-0739567008d1.jpg)
 [Watch a video of UltimaXNA Alpha at Milestone 0.4 (April 3, 2015)](http://www.youtube.com/watch?v=gUfpQkLBdzE)
 
-**Getting started**
+**Compile by your own**
 
 You should use [Visual Studio 2015](https://www.visualstudio.com/vs/community/) to develop and compile UltimaXNA. You will also need to install [XNA for Visual Studio 2015](https://blogs.msdn.microsoft.com/uk_faculty_connection/2015/11/02/installing-xna-with-visual-studio-2015/).
 
