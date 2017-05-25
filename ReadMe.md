@@ -15,11 +15,10 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU General Public License  along with this program. If not, see <u>http://www.gnu.org/licenses/</u>.
 
-Source Project can be found under :
+**Source Project can be found under :**
 
-UORenaissanceXNA <u>https://github.com/3HMonkey/UORenaissanceXNA</u>
-
-UORenaissanceXNA includes code from other Open Source projects:
+* UORenaissanceXNA <u>https://github.com/3HMonkey/UORenaissanceXNA</u>
+* UORenaissanceXNA includes code from other Open Source projects:
 
 UltimaXNA <u>https://github.com/ZaneDubya/UltimaXNA</u>
 RunUO <u>https://github.com/runuo/runuo</u>
