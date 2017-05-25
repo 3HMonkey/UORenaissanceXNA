@@ -24,7 +24,7 @@ namespace UltimaXNA.Configuration
 
         public LoginSettings()
         {
-            ServerAddress = "127.0.0.1";
+            ServerAddress = "login.uorenaissance.com";
             ServerPort = 2593;
             LastCharacterName = string.Empty;
             AutoSelectLastCharacter = false;

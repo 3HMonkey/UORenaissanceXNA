@@ -318,7 +318,7 @@ namespace UltimaXNA
                 {
                     Version v = Assembly.GetExecutingAssembly().GetName().Version;
                     DateTime d = new DateTime(v.Build * TimeSpan.TicksPerDay).AddYears(1999).AddDays(-1);
-                    s_VersionString = string.Format("UltimaXNA PreAlpha Milestone {0}.{1} ({2})", v.Major, v.Minor, string.Format("{0:MMMM d, yyyy}", d));
+                    s_VersionString = string.Format("UORenaissanceXNA Build {0}.{1}.{2}", v.Major, v.Minor, string.Format("{0:yyyyMMdd}", d));
                 }
                 return s_VersionString;
             }

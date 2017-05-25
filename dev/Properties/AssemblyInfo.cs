@@ -4,12 +4,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("UltimaXNA")]
-[assembly: AssemblyProduct("UltimaXNA")]
+[assembly: AssemblyTitle("UORenaissanceXNA")]
+[assembly: AssemblyProduct("UORenaissanceXNA")]
 [assembly: AssemblyDescription("Open source MMORPG client")]
 [assembly: AssemblyCompany("")]
 
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -29,4 +29,4 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("0.7.*")]
+[assembly: AssemblyVersion("0.2.*")]

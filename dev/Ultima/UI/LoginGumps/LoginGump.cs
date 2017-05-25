@@ -44,11 +44,17 @@ namespace UltimaXNA.Ultima.UI.LoginGumps {
             AddControl(new ResizePic(this, 96, 285, 0x13BE, 492, 190));
             AddControl(new GumpPic(this, 0, 0, 0x157C, 0)); // 0x2329 - upper-left border graphic
             AddControl(new GumpPic(this, 294, 42, 0x058A, 0)); // 0x2329 - castle graphic
+            //Beta Text
+            AddControl(new HtmlGumpling(this, 80, 125, 400, 20, 0, 0, $"<center><medium><outline><font color='#DDDDDD'>Welcome to Renaissance</center></medium></outline>"));
+            AddControl(new HtmlGumpling(this, 100, 150, 400, 20, 0, 0, $"<medium><outline><font color='#DDDDDD'>Please notice, that this client version is not a production build</medium></outline>"));
+            AddControl(new HtmlGumpling(this, 100, 165, 400, 20, 0, 0, $"<medium><outline><font color='#DDDDDD'>right now. It can include bugs which could influence the gameplay</medium></outline>"));
+            AddControl(new HtmlGumpling(this, 100, 180, 400, 20, 0, 0, $"<medium><outline><font color='#DDDDDD'>in a negative way. So stay tuned for a release or beta build!</medium></outline>"));
             // quit button
             AddControl(new Button(this, 554, 2, 5513, 5515, ButtonTypes.Activate, 0, (int)LoginGumpButtons.QuitButton));
             ((Button)LastControl).GumpOverID = 5514;
             // Log in to Ultima Online
-            AddControl(new TextLabelAscii(this, 230, 305, 2, hue, provider.GetString(3000038)));
+            //AddControl(new TextLabelAscii(this, 230, 305, 2, hue, provider.GetString(3000038)));
+            AddControl(new TextLabelAscii(this, 180, 305, 2, hue, "Login to Ultima Online Renaissance"));
             // Account Name
             AddControl(new TextLabelAscii(this, 181, 346, 2, hue, provider.GetString(3000099)));
             // Password

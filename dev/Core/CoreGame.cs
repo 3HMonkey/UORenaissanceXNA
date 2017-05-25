@@ -78,7 +78,7 @@ namespace UltimaXNA.Core
             double timeTotal = Profiler.TrackedTime;
             double avgDrawMs = Profiler.GetContext("RenderFrame").AverageTime;
 
-            Window.Title = string.Format("UltimaXNA Draw:{0:0.0}% Update:{1:0.0}% AvgDraw:{2:0.0}ms {3}",
+            Window.Title = string.Format("UORenaissanceXNA Draw:{0:0.0}% Update:{1:0.0}% AvgDraw:{2:0.0}ms {3}",
                 100d * (timeDraw / timeTotal),
                 100d * (timeUpdate / timeTotal),
                 avgDrawMs,

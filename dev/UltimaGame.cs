@@ -111,7 +111,7 @@ namespace UltimaXNA
                 }
                 else
                 {
-                    CheckWindowSize(800, 600);
+                    CheckWindowSize(600, 500);
                 }
                 Models.Current.GetView().Draw(frameMS);
                 m_UserInterface.Draw(frameMS);
@@ -127,7 +127,7 @@ namespace UltimaXNA
         {
             RestoreWindow();
             Window.AllowUserResizing = false;
-            SetGraphicsDeviceWidthHeight(new ResolutionProperty(800, 600)); // a wee bit bigger than legacy. Looks nicer.
+            SetGraphicsDeviceWidthHeight(new ResolutionProperty(600, 500)); // a wee bit bigger than legacy. Looks nicer.
         }
 
         public void SetupWindowForWorld()
