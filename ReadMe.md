@@ -6,6 +6,7 @@ The target is to create a fully advanced UO-client which refreshes rendering tec
 ![UORennaissanceXNA Example](https://picload.org/image/riaddlrw/exampleview.jpg)
 
 **Getting started**
+
 Please visit the wiki for more information.
 [Getting started by compiling yourself](https://github.com/3HMonkey/UORenaissanceXNA/wiki/Compile-it-by-your-own)
 
